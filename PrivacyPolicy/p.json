@@ -2,19 +2,19 @@
   "list": [
     {
       "date": "2024.01.17",
-      "path": "Terms/PrivacyPolicy/p20240117"
+      "path": "PrivacyPolicy/p20240117"
     },
     {
       "date": "2024.01.02",
-      "path": "Terms/PrivacyPolicy/p20240102"
+      "path": "PrivacyPolicy/p20240102"
     },
     {
       "date": "2023.01.02",
-      "path": "Terms/PrivacyPolicy/p20230102"
+      "path": "PrivacyPolicy/p20230102"
     },
 	{
       "date": "2022.01.02",
-      "path": "Terms/PrivacyPolicy/p20220102"
+      "path": "PrivacyPolicy/p20220102"
     }
   ]
 }
